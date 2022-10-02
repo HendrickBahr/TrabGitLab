@@ -3,9 +3,9 @@
 ##
 
 <div>
-Este é um trabalho para a cadeira de Laboratório de Computação, no qual deve ser feito o jogo chamado de Pedra Papel Tesoura.
-Deve ser feito em duas versões diferente e separado cada versão em uma branch diferente.</div>
+Esta é a segunda versão do jokenpo no qual as opções agora são Pedra, Papel, Tesoura, Lagarto e Spock assim dando mais opções de escolha e gerando mais possibilidades de resultado.</div>
 
-###
+##
 
-<div text-align='center'><img src="https://user-images.githubusercontent.com/114697641/193421505-72934286-80ff-41fd-ab47-8dfaf586b3b2.png"></div>
+<div>O programa solicita que voce insira a sua escolha para qual opção ele deseja jogar e assim calcula com a opção do computador qual o resultado. Após isso solicita se deseja repetir o jogo ou se deseja parar.
+Caso seja inserido números inválidos nas opções para a escolha do que jogar ou na opção que pergunta se deseja continuar jogando será emitida uma mensagem dizendo valor inválido e solicitara um valor válido.</div>
