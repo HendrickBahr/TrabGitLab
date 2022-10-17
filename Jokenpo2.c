@@ -94,5 +94,3 @@ int main(){
         }
     }
 }
-//jokenpo 2
-//a volta dos que nao forao
